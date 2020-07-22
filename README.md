@@ -17,7 +17,7 @@ Right now, there's a lot of missing CSS. In addition, there is a bug in which br
 
 Make sure that ```node```, ```git```, and ```nativefier``` are installed. Then:
 
-<img src="./images/install.png" />
+<img src="https://raw.githubusercontent.com/dangreco/minty/master/images/install.png" />
 
 <br />
 <br />
