@@ -9,7 +9,8 @@
 <img src="https://raw.githubusercontent.com/dangreco/minty/master/images/screenshot1.png" />
 
 
-
+# Status: Experimental
+Right now, there's a lot of missing CSS. In addition, there is a bug in which browser cookies are not persisted.
 
 
 # Installation
