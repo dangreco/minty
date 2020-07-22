@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/dangreco/minty/master/images/logo.png" width="250"/>
-  
+<br />
 <b>Cross-platform Mint desktop experience. Ad-free, modern design.</b>
 </p>
 
