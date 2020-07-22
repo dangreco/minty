@@ -15,7 +15,7 @@ Right now, there's a lot of missing CSS. In addition, there is a bug in which br
 
 # Installation
 
-Make sure that both ```node``` and ```nativefier``` are installed. Then run:
+Make sure that ```node```, ```git```, and ```nativefier``` are installed. Then run:
 
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/dangreco/minty/master/install.sh)"
