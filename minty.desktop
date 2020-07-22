@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Minty
+Comment=Cross-platform Intuit Mint
+Path=/usr/local/bin
+Exec=minty
+Terminal=false
